@@ -40,6 +40,6 @@ I'm a full-stack developer, a passionate self-taught full-stack web developer, a
 
 <h3>📈 My Github Stats</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&show_icons=true&theme=gotham" alt="hardikpatel" />
 
 # Made in README.md with ❤️
