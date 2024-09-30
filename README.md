@@ -41,7 +41,7 @@ I'm a full-stack developer, a passionate self-taught full-stack web developer, a
 <h3>📈 Github Stats</h3>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&hide_border=false&include_all_commits=false&count_private=false&theme=radical" alt="hardikpatel" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&hide_border=false&include_all_commits=true&count_private=false&theme=radical" alt="hardikpatel" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkumarpatel&hide_border=false&theme=radical" alt="hardikpatel" />
 </p>
 <p align="center"> 
