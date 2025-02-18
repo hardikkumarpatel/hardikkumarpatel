@@ -29,6 +29,22 @@ I'm a full-stack developer, a passionate self-taught full-stack web developer, a
 ![](https://github-profile-trophy.vercel.app/?username=hardikkumarpatel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&show_icons=true&locale=en&theme=tokyonight" alt="hardikkumarpatel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkumarpatel&theme=tokyonight" alt="hardikkumarpatel" /></p>
+
+
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=hardikkumarpatel&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
+
+
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/hardikkumarpatel" target="_blank">
