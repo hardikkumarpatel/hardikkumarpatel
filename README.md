@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - I'm a full-stack developer, a passionate self-taught full-stack web developer, and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
@@ -35,11 +35,7 @@
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&show_icons=true&locale=en&theme=tokyonight" alt="hardikkumarpatel" /></p>
-
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
 
 
 
