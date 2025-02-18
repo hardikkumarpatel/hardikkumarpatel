@@ -31,12 +31,6 @@
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 📊 &nbsp;**Github Stats**
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
-
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
-
-
 
 # Made in README.md with ❤️
