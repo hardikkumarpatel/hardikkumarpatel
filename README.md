@@ -1,8 +1,12 @@
-# Hi, I'm Hardik Patel! 👋
-
+<p align="center">  
+  Visitor count<br>     
+  <img src="https://profile-counter.glitch.me/hardikkumarpatel/count.svg" />
+</p> 
+<h1 align="center">Hi 👋, I'm Hardik Patel! 👋</h1>
 
 ## 🚀 About Me
 I'm a full-stack developer, a passionate self-taught full-stack web developer, and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
+
 <h3>Tech Stack</h3> 
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
