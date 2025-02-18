@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hardik Patel! 👋</h1>
+<h1 align="center">Hi 👋, I'm Hardik Patel!</h1>
+
 ## 🚀 About Me
-I'm a full-stack developer, a passionate self-taught full-stack web developer, and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
+- I'm a full-stack developer, a passionate self-taught full-stack web developer, and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 
 # 💻 Tech Stack:
 <p>
@@ -34,33 +35,12 @@ I'm a full-stack developer, a passionate self-taught full-stack web developer, a
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikkumarpatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardikkumarpatel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikkumarpatel&show_icons=true&locale=en&theme=tokyonight" alt="hardikkumarpatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkumarpatel&theme=tokyonight" alt="hardikkumarpatel" /></p>
-
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=hardikkumarpatel&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
 
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/hardikkumarpatel" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-  <a href="https://github.com/hardikkumarpatel" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-  <a href="www.linkedin.com/in/hardik-patel-565122154" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-<h3>📈 Github Stats</h3>
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumarpatel&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical" alt="hardikpatel" />
-</p>
 # Made in README.md with ❤️
